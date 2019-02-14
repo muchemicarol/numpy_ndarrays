@@ -24,6 +24,9 @@ Depedency Libraries
 I'm working on Linux OS (Ubuntu 18.04.1 LTS) so command for installing dependecies is given below.
 
 ```
+python3           $ sudo add-apt-repository ppa:jonathonf/python-3.6
+                  $ sudo apt-get update
+                  $ sudo apt-get install python3.6
 numpy:            $ sudo pip3 install numpy
 jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo pip3 install jupyter
