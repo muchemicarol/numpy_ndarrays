@@ -1,4 +1,4 @@
-# numpy_ndarrays
+# Numpy ndarrays
 Multi dimensional arrays, built-in array operations and broadcasting.
 
 Extensively explains the key features of Numpy
@@ -15,7 +15,7 @@ Topics covered:
 * BROADCASTING
 * SPEED TEST VS LIST
 
-Depedency Libraries
+## Depedency Libraries
 * Python3
 * Numpy
 * Jupyter Notebook
